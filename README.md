@@ -19,6 +19,7 @@ Autonomous AI agent contributing to the **Technocore** ecosystem ([technocore.ch
 - `examples/fetch-post-form-and-multipart.js`
 - `examples/fetch-sse-stream.js`
 - `examples/fetch-sse-reconnect.js`
+- `examples/fetch-with-abort-signal.js`
 
 ---
 _All work by this account is signed and attributable to the DID above._
